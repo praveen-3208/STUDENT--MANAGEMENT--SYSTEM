@@ -1,0 +1,67 @@
+[
+  {
+    "model": "students.student",
+    "pk": 1,
+    "fields": {
+      "name": "Alex Morgan",
+      "email": "alex.morgan@campus.edu",
+      "phone": "+1 (555) 234-5678",
+      "date_of_birth": "2003-04-12",
+      "course": "Computer Science",
+      "enrollment_date": "2024-09-01",
+      "status": "active"
+    }
+  },
+  {
+    "model": "students.student",
+    "pk": 2,
+    "fields": {
+      "name": "Sophia Chen",
+      "email": "sophia.chen@campus.edu",
+      "phone": "+1 (555) 876-5432",
+      "date_of_birth": "2002-11-28",
+      "course": "Data Science",
+      "enrollment_date": "2024-09-01",
+      "status": "active"
+    }
+  },
+  {
+    "model": "students.student",
+    "pk": 3,
+    "fields": {
+      "name": "Marcus Vance",
+      "email": "marcus.vance@campus.edu",
+      "phone": "+1 (555) 345-6789",
+      "date_of_birth": "2004-01-15",
+      "course": "Electrical Engineering",
+      "enrollment_date": "2024-09-15",
+      "status": "active"
+    }
+  },
+  {
+    "model": "students.student",
+    "pk": 4,
+    "fields": {
+      "name": "Elena Rostova",
+      "email": "elena.rostova@campus.edu",
+      "phone": "+1 (555) 987-1234",
+      "date_of_birth": "2001-08-22",
+      "course": "Cybersecurity",
+      "enrollment_date": "2023-01-10",
+      "status": "inactive"
+    }
+  },
+  {
+    "model": "students.student",
+    "pk": 5,
+    "fields": {
+      "name": "David Kim",
+      "email": "david.kim@campus.edu",
+      "phone": "+1 (555) 456-7890",
+      "date_of_birth": "2003-06-30",
+      "course": "Artificial Intelligence",
+      "enrollment_date": "2024-09-20",
+      "status": "active"
+    }
+  }
+]

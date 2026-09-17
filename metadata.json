@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "Full-stack Student Management System built with React and Django REST Framework featuring complete CRUD operations, client and server-side validation, and search filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
